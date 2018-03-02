@@ -10,7 +10,7 @@
 
     this.options = $.extend({
       ssl: true,
-      host: 'www.feedrapp.info'
+      host: 'www.feedrapp.info',
       limit: null,
       key: null,
       layoutTemplate: '<ul>{entries}</ul>',
