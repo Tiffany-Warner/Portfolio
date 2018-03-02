@@ -59,7 +59,7 @@ jQuery(document).ready(function($) {
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "Tiffany-Warner", selector: "#feed", limit: 10 });
+    GitHubActivity.feed({ username: "Tiffany-Warner", selector: "#feed", limit: 20 });
 
 
 });
